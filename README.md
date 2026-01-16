@@ -3,12 +3,13 @@ MAD-Project-food_delivery_app
 Our Food Delivery App connects users with nearby restaurants, allowing them to browse menus, customize orders, and track deliveries in real time. It ensures fast, secure, and convenient food ordering with online payments and smooth delivery tracking for a better dining experience.
 
 Group Members and Their Role
-No.	Name
-1	Dawit Paulos
-2	Desalegn Alemayehu
-3	Noah Abera
-4	Samuel Girma
-5	Yeabtsega Endale
+| No. | Name |
+|----:|--------------------|
+| 1   | Dawit Paulos       |
+| 2   | Desalegn Alemayehu |
+| 3   | Noah Abera         |
+| 4   | Samuel Girma       |
+| 5   | Yeabtsega Endale   |
 
 🎨 Figma Design Board
 click the link below to view the figma design 
