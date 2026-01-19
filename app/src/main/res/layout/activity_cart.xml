@@ -1,4 +1,3 @@
-Dese, [1/19/2026 10:01 PM]
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -101,7 +100,6 @@ Dese, [1/19/2026 10:01 PM]
                         android:gravity="center_vertical"
                         android:layout_marginBottom="12dp">
 
-Dese, [1/19/2026 10:01 PM]
 <TextView
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
@@ -188,7 +186,6 @@ Dese, [1/19/2026 10:01 PM]
                             android:textSize="18sp"
                             android:textStyle="bold" />
 
-Dese, [1/19/2026 10:01 PM]
 <TextView
                             android:id="@+id/totalAmount"
                             android:layout_width="wrap_content"
